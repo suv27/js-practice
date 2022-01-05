@@ -87,4 +87,32 @@ class BST {
 
         this.root = removeNode(this.root, data);
     }
+
+    isBalanced() {
+
+    }
+
+    findMinHeight() {
+
+    }
+
+    findMaxHeight() {
+
+    }
+
+    inOrder() {
+
+    }
+
+    preOrder() {
+
+    }
+
+    postOrder() {
+
+    }
+
+    levelOrder() {
+        
+    }
 }
